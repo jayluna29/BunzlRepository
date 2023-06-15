@@ -1,0 +1,13 @@
+{
+  "dependencies": {
+    "@material-ui/core": "^4.12.4",
+    "@material/button": "^14.0.0",
+    "material-ui-search-bar": "^1.0.0",
+    "react-is": "16.8",
+    "styled-components": "^5.3.11"
+  },
+  "devDependencies": {
+    "react": "16.8",
+    "react-dom": "16.8"
+  }
+}
